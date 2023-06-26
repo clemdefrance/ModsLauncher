@@ -1,0 +1,586 @@
+{
+  "mods": [
+    {
+      "name": "appliedenergistics2-8.4.7.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/appliedenergistics2-8.4.7.jar",
+      "sha1": "094025e39c8334556c069f8c21b19b4a54966b13",
+      "size": 4820914
+    },
+    {
+      "name": "appliedenergistics2-rv4-stable-1.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/appliedenergistics2-rv4-stable-1.jar",
+      "sha1": "8a15aa919ec9c0ed54999e0eed80b927ddf27103",
+      "size": 3372722
+    },
+    {
+      "name": "architectury-1.32.68.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/architectury-1.32.68.jar",
+      "sha1": "ebd266dd51de8f4dd99c9b4731e35b8340734cda",
+      "size": 551889
+    },
+    {
+      "name": "Aroma1997Core-1.9.4-1.1.1.2.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Aroma1997Core-1.9.4-1.1.1.2.jar",
+      "sha1": "cd7370ed5877a6699d756f25e893299f267173d7",
+      "size": 162213
+    },
+    {
+      "name": "Aroma1997s-Dimensional-World-1.9.4-1.2.0.7.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Aroma1997s-Dimensional-World-1.9.4-1.2.0.7.jar",
+      "sha1": "4100111a4261ecb217247d3878b2777f0cf99a9f",
+      "size": 57675
+    },
+    {
+      "name": "AutoRegLib-1.0-2.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/AutoRegLib-1.0-2.jar",
+      "sha1": "22c12d61dd4f3179b9a56ba11da71cbf56747006",
+      "size": 55800
+    },
+    {
+      "name": "AutoRegLib-1.6-49.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/AutoRegLib-1.6-49.jar",
+      "sha1": "921cf73b9d31bce5d332115a5144c3fca2010f93",
+      "size": 57279
+    },
+    {
+      "name": "Baubles-1.10.2-1.3.13.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Baubles-1.10.2-1.3.13.jar",
+      "sha1": "7e59314d547dc56ec5f0eecc46ae155b171dccc7",
+      "size": 109330
+    },
+    {
+      "name": "BiomesOPlenty-1.16.5-13.1.0.477-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/BiomesOPlenty-1.16.5-13.1.0.477-universal.jar",
+      "sha1": "047353676686858abf9da610b3bc1f5e5a6865fa",
+      "size": 3651670
+    },
+    {
+      "name": "Blocklings 4.1.11 - 1.10.2.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Blocklings 4.1.11 - 1.10.2.jar",
+      "sha1": "ad7768b076d802954a50a783396276bd4b7ac8a2",
+      "size": 299321
+    },
+    {
+      "name": "BloodMagic-1.16.4-3.1.13-39.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/BloodMagic-1.16.4-3.1.13-39.jar",
+      "sha1": "1a5689d41c2668a627b114ff55bab6ae329e609e",
+      "size": 10017206
+    },
+    {
+      "name": "Bookshelf-Forge-1.16.5-10.4.33.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Bookshelf-Forge-1.16.5-10.4.33.jar",
+      "sha1": "9d8ae731be2dd554968213224a74ad58f2e5cad0",
+      "size": 317032
+    },
+    {
+      "name": "Botania r1.9-341.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Botania r1.9-341.jar",
+      "sha1": "757aa1753955ef8c7addd926de73dfe321095ec5",
+      "size": 13852363
+    },
+    {
+      "name": "Botania-1.16.5-420.3.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Botania-1.16.5-420.3.jar",
+      "sha1": "561b20994937a19e800a96ee0c5708eaa0e46e7c",
+      "size": 15046675
+    },
+    {
+      "name": "BrandonsCore-1.10.2-2.1.14.137-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/BrandonsCore-1.10.2-2.1.14.137-universal.jar",
+      "sha1": "90e87cd988c87fc0b9a4002b9aba1666661e0851",
+      "size": 451425
+    },
+    {
+      "name": "BrandonsCore-1.16.5-3.0.15.248-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/BrandonsCore-1.16.5-3.0.15.248-universal.jar",
+      "sha1": "5b394b059d98736394cfa602c8e5bcb8c9fb58fe",
+      "size": 1612309
+    },
+    {
+      "name": "Chameleon-1.10.2-2.3.0.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Chameleon-1.10.2-2.3.0.jar",
+      "sha1": "fa03dd786c47b820a103912dc905c66c9381a96f",
+      "size": 96006
+    },
+    {
+      "name": "Chisel-MC1.10.2-0.2.1.47.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Chisel-MC1.10.2-0.2.1.47.jar",
+      "sha1": "5ce72bc6760c6d8b5e82c4d5b0a2c098e9a6efed",
+      "size": 4410269
+    },
+    {
+      "name": "Chisel-MC1.16.5-2.0.1-alpha.4.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Chisel-MC1.16.5-2.0.1-alpha.4.jar",
+      "sha1": "495ac2e30c068c3d458e318a8322aa3309637ff3",
+      "size": 7313725
+    },
+    {
+      "name": "chiselsandbits-1.0.63.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/chiselsandbits-1.0.63.jar",
+      "sha1": "e8651c1cce8df80a932875e2810c0b9e9ded6a85",
+      "size": 1283988
+    },
+    {
+      "name": "chiselsandbits-12.16.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/chiselsandbits-12.16.jar",
+      "sha1": "dfc83e1791dc406746c95e6d026156fcae227cbe",
+      "size": 654511
+    },
+    {
+      "name": "citadel-1.8.1-1.16.5.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/citadel-1.8.1-1.16.5.jar",
+      "sha1": "cf60d0fc6b6d1357832c64d665870f555f23e19b",
+      "size": 482439
+    },
+    {
+      "name": "CodeChickenCore-1.10.2-2.4.1.102-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/CodeChickenCore-1.10.2-2.4.1.102-universal.jar",
+      "sha1": "6aceb5251a9c0120d19dfd5925782465a4b2d767",
+      "size": 105689
+    },
+    {
+      "name": "CodeChickenLib-1.10.2-2.5.9.320-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/CodeChickenLib-1.10.2-2.5.9.320-universal.jar",
+      "sha1": "fe6925cbb8a294263e215d0dc0a6c861a59a0a06",
+      "size": 680949
+    },
+    {
+      "name": "CodeChickenLib-1.16.5-4.0.7.445-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/CodeChickenLib-1.16.5-4.0.7.445-universal.jar",
+      "sha1": "8e9f473dfb4bf74fab88bc8a0b7eb7a1d365cef4",
+      "size": 636499
+    },
+    {
+      "name": "CoFHCore-1.10.2-4.1.12.17-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/CoFHCore-1.10.2-4.1.12.17-universal.jar",
+      "sha1": "455a7032c65f5241782e0216f4b45d770888b20f",
+      "size": 955593
+    },
+    {
+      "name": "cofh_core-1.16.5-1.5.2.22.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/cofh_core-1.16.5-1.5.2.22.jar",
+      "sha1": "908b2a7c1f3f151c1c03c664cfca5fd51bd108d8",
+      "size": 1443038
+    },
+    {
+      "name": "compatlayer-1.10-0.3.1.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/compatlayer-1.10-0.3.1.jar",
+      "sha1": "9369ec9bb3d19727c1cdc0e40ea725d8c01df9c9",
+      "size": 41053
+    },
+    {
+      "name": "Controlling-7.0.0.29.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Controlling-7.0.0.29.jar",
+      "sha1": "38fb1a85b18941f333bc9fec33f7c20c17bdc99e",
+      "size": 51888
+    },
+    {
+      "name": "create-mc1.16.5_v0.3.2g.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/create-mc1.16.5_v0.3.2g.jar",
+      "sha1": "5b32b0310d037deed14200e3b748bd02d46d9471",
+      "size": 11564279
+    },
+    {
+      "name": "CTM-MC1.10.2-0.3.2.35.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/CTM-MC1.10.2-0.3.2.35.jar",
+      "sha1": "fc9b74d61966334faa7c94893f1dd4973ef20d90",
+      "size": 188678
+    },
+    {
+      "name": "CTM-MC1.16.1-1.1.2.6.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/CTM-MC1.16.1-1.1.2.6.jar",
+      "sha1": "c097e077974a2c84c4309edfe91d76f6bdc90d4c",
+      "size": 186068
+    },
+    {
+      "name": "curios-forge-1.16.5-4.1.0.0.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/curios-forge-1.16.5-4.1.0.0.jar",
+      "sha1": "44cb4b783bf194b092e3986e40f9d78501f51ae2",
+      "size": 291897
+    },
+    {
+      "name": "decocraft-3.0.0.10-alpha.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/decocraft-3.0.0.10-alpha.jar",
+      "sha1": "8ab5214f9936b77d34d64e19588e0209245edd59",
+      "size": 26840567
+    },
+    {
+      "name": "deepresonance-1.1x-1.4.9.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/deepresonance-1.1x-1.4.9.jar",
+      "sha1": "0c5723328186710be4b8f224fcc693ebb2bd8a9b",
+      "size": 874776
+    },
+    {
+      "name": "Draconic-Evolution-1.10.2-2.1.8.273-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Draconic-Evolution-1.10.2-2.1.8.273-universal.jar",
+      "sha1": "17058f6f476a1b2fba807f0b8487a9b2133b99b5",
+      "size": 5542301
+    },
+    {
+      "name": "Draconic-Evolution-1.16.5-3.0.29.518-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Draconic-Evolution-1.16.5-3.0.29.518-universal.jar",
+      "sha1": "a8f0dac0f22d197abd1283d2f0c3a9a6c588013d",
+      "size": 5530255
+    },
+    {
+      "name": "ElecCore-1.10.2-1.7.431.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ElecCore-1.10.2-1.7.431.jar",
+      "sha1": "0987cc320e215a9d81ec4f93b3c9b2a54fe97bfe",
+      "size": 850849
+    },
+    {
+      "name": "elevatorid-1.16.5-1.7.13.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/elevatorid-1.16.5-1.7.13.jar",
+      "sha1": "aa22a73a549240805e9a01f4a931daf017198f9a",
+      "size": 183750
+    },
+    {
+      "name": "EnderCore-1.10.2-0.4.1.66-beta.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/EnderCore-1.10.2-0.4.1.66-beta.jar",
+      "sha1": "fb96af079497f26693904f2e29f316b97b0b8789",
+      "size": 470217
+    },
+    {
+      "name": "EnderIO-1.10.2-3.1.193.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/EnderIO-1.10.2-3.1.193.jar",
+      "sha1": "57f584af4ce8da48c4ec8e281449418683ae6731",
+      "size": 5005748
+    },
+    {
+      "name": "EnderStorage-1.10.2-2.2.1.106-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/EnderStorage-1.10.2-2.2.1.106-universal.jar",
+      "sha1": "e7a1b0d70a5fc2a216ffff71da055cefa805569a",
+      "size": 223173
+    },
+    {
+      "name": "EnderStorage-1.16.5-2.8.0.170-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/EnderStorage-1.16.5-2.8.0.170-universal.jar",
+      "sha1": "a1efddbb49c2e6d54d67d77508f151869a33865d",
+      "size": 214789
+    },
+    {
+      "name": "environmentaltech-1.10.2-0.10.6b.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/environmentaltech-1.10.2-0.10.6b.jar",
+      "sha1": "2c8cbb642d834e91546453bc7e3c3e80da2ca1d3",
+      "size": 535774
+    },
+    {
+      "name": "ExtraPlanets-1.10.2-1.4.3.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ExtraPlanets-1.10.2-1.4.3.jar",
+      "sha1": "1ec77baa8139c2cd6547c9b5ecb3e3c3d1181092",
+      "size": 8520274
+    },
+    {
+      "name": "extrautils2-1.10.2-1.9.9.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/extrautils2-1.10.2-1.9.9.jar",
+      "sha1": "2c50971d7281dd540bdd24893c8d9f56947e4a0c",
+      "size": 3180375
+    },
+    {
+      "name": "flywheel-1.16-0.2.5.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/flywheel-1.16-0.2.5.jar",
+      "sha1": "30dbb119ce3d455bee065c0bef04a00827b3a5b3",
+      "size": 420923
+    },
+    {
+      "name": "Galacticraft-Planets-1.10.2-4.0.2.190.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Galacticraft-Planets-1.10.2-4.0.2.190.jar",
+      "sha1": "b9a46210e86804395794ba80db6201a11ca87508",
+      "size": 3921266
+    },
+    {
+      "name": "GalacticraftCore-1.10.2-4.0.2.190.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/GalacticraftCore-1.10.2-4.0.2.190.jar",
+      "sha1": "b5c3225e7879f0ee40b67115b5ceb9954ed2fe26",
+      "size": 10315734
+    },
+    {
+      "name": "HammerLib-1.16.5-16.4.32.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/HammerLib-1.16.5-16.4.32.jar",
+      "sha1": "d17b8039c8d1e2e5d711cc2e22cef112961b525c",
+      "size": 1229242
+    },
+    {
+      "name": "iceandfire-2.1.12-1.16.5.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/iceandfire-2.1.12-1.16.5.jar",
+      "sha1": "e76b2bcc8456f7a2bb2c47719d93a0e8c4af9d6b",
+      "size": 21463278
+    },
+    {
+      "name": "ImmersiveEngineering-0.10-61.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ImmersiveEngineering-0.10-61.jar",
+      "sha1": "ccfbb69120211d298b6222306dfa75ec48cc9b07",
+      "size": 5132058
+    },
+    {
+      "name": "ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+      "sha1": "3264b5e3047575faa32d9a32f70c0d0c8039ad37",
+      "size": 9414280
+    },
+    {
+      "name": "immersivepetroleum-1.10.2-1.1.3.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/immersivepetroleum-1.10.2-1.1.3.jar",
+      "sha1": "a042493a582683f5a4aa0808894f64c3ebd68428",
+      "size": 858563
+    },
+    {
+      "name": "ImmersivePetroleum-1.16.5-3.4.0-20.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ImmersivePetroleum-1.16.5-3.4.0-20.jar",
+      "sha1": "c481ea1c770dfaf1d5077169e427359ab87f5edd",
+      "size": 1532710
+    },
+    {
+      "name": "ironchest-1.10.2-7.0.15.804.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ironchest-1.10.2-7.0.15.804.jar",
+      "sha1": "5cef3a815d12116c59aa769d0ff3a6bed0bd7933",
+      "size": 152365
+    },
+    {
+      "name": "ironchest-1.16.5-11.2.21.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ironchest-1.16.5-11.2.21.jar",
+      "sha1": "59e263b8dd04ad2742def8b3773d5e2f6e1ba03c",
+      "size": 258298
+    },
+    {
+      "name": "jei-1.16.5-7.8.0.1009.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/jei-1.16.5-7.8.0.1009.jar",
+      "sha1": "cb07340ff3b0d66d0541ff98e5fa6abcd392b08c",
+      "size": 839446
+    },
+    {
+      "name": "journeymap-1.16.5-5.8.5p6.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/journeymap-1.16.5-5.8.5p6.jar",
+      "sha1": "5245221653a0113713a7261898b49f71b779b6c8",
+      "size": 6693593
+    },
+    {
+      "name": "kubejs-forge-1605.3.19-build.299.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/kubejs-forge-1605.3.19-build.299.jar",
+      "sha1": "91831aa8159e1076debd5f0daacf832d777b0f4a",
+      "size": 919043
+    },
+    {
+      "name": "kubejs-thermal-1605.1.4-build.4.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/kubejs-thermal-1605.1.4-build.4.jar",
+      "sha1": "0b2180832c27eab7b5861f92ba2fdf7ab4ec6dff",
+      "size": 20345
+    },
+    {
+      "name": "Mantle-1.10.2-1.1.5.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Mantle-1.10.2-1.1.5.jar",
+      "sha1": "bc97963b4eb7caa59dfbb5a56f7c3b2a28da2b9f",
+      "size": 851810
+    },
+    {
+      "name": "Mantle-1.16.5-1.6.157.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Mantle-1.16.5-1.6.157.jar",
+      "sha1": "61cd1d256a29445d153bd076e090f6172eff2aff",
+      "size": 806737
+    },
+    {
+      "name": "mcjtylib-1.16-5.1.8.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/mcjtylib-1.16-5.1.8.jar",
+      "sha1": "0ddbcd55b80a231e958bc114b76981028d999d9f",
+      "size": 648426
+    },
+    {
+      "name": "mcjtylib-1.1x-2.5.3.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/mcjtylib-1.1x-2.5.3.jar",
+      "sha1": "4c882b7f8985aa773cd143129e9f7196862de584",
+      "size": 322038
+    },
+    {
+      "name": "Mekanism-1.16.5-10.1.2.457.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Mekanism-1.16.5-10.1.2.457.jar",
+      "sha1": "e7ec62394e8ac4b254c4e7cc57360903d7c35980",
+      "size": 11181433
+    },
+    {
+      "name": "MicdoodleCore-1.10.2-4.0.2.190.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/MicdoodleCore-1.10.2-4.0.2.190.jar",
+      "sha1": "48b8ccef30f6be591e8c67c435dda5e66e6d59eb",
+      "size": 53500
+    },
+    {
+      "name": "MJRLegendsLib-1.10.2-1.1.8.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/MJRLegendsLib-1.10.2-1.1.8.jar",
+      "sha1": "21a3db1903747865aed8c4abc6256fb955922225",
+      "size": 112064
+    },
+    {
+      "name": "OpenComputers-MC1.10.2-1.7.5.245.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/OpenComputers-MC1.10.2-1.7.5.245.jar",
+      "sha1": "ed2dfe31f845003a1da1675b57aa59e44d60bc86",
+      "size": 14911421
+    },
+    {
+      "name": "Patchouli-1.16.4-53.3.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Patchouli-1.16.4-53.3.jar",
+      "sha1": "cf7c2efc013a0247be4c2ce3f3d6a553643e00f7",
+      "size": 593352
+    },
+    {
+      "name": "Quark-r1.1-70.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Quark-r1.1-70.jar",
+      "sha1": "79296042432411e7f335a246be3b35ee74308512",
+      "size": 1138121
+    },
+    {
+      "name": "Quark-r2.4-322.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Quark-r2.4-322.jar",
+      "sha1": "c314a534737baba9416c4947e15f81c6243f9844",
+      "size": 8796901
+    },
+    {
+      "name": "rftools-1.1x-7.16.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftools-1.1x-7.16.jar",
+      "sha1": "0b41afcfcf27c354355512c921470aad3610cbf5",
+      "size": 3336770
+    },
+    {
+      "name": "rftoolsbase-1.16-2.1.5.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftoolsbase-1.16-2.1.5.jar",
+      "sha1": "78f2d9172ceac9d169f20387895a607ac2404e0e",
+      "size": 415673
+    },
+    {
+      "name": "rftoolsbuilder-1.16-3.1.11.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftoolsbuilder-1.16-3.1.11.jar",
+      "sha1": "8a93c2a73f9facd5ecc804801c689084768285dd",
+      "size": 540470
+    },
+    {
+      "name": "rftoolsctrl-1.1x-1.7.0.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftoolsctrl-1.1x-1.7.0.jar",
+      "sha1": "ef07e9ffdd3d76e91afe57aa26750fb61823b5ed",
+      "size": 571250
+    },
+    {
+      "name": "rftoolsdim-1.16-7.0.21.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftoolsdim-1.16-7.0.21.jar",
+      "sha1": "21283f973ba6b927ea7c40d95f45937a29f7ca4e",
+      "size": 1492113
+    },
+    {
+      "name": "rftoolsdim-1.1x-5.05.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftoolsdim-1.1x-5.05.jar",
+      "sha1": "5d795172aa385989e5e95401ecdae497a108f681",
+      "size": 1637396
+    },
+    {
+      "name": "rftoolspower-1.16-3.0.14.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftoolspower-1.16-3.0.14.jar",
+      "sha1": "8948b15730dc98d2e96f522568095419a9e00e9b",
+      "size": 558179
+    },
+    {
+      "name": "rftoolsutility-1.16-3.1.16.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rftoolsutility-1.16-3.1.16.jar",
+      "sha1": "8cb939636661c5b0d52baa7ca8184d439fa99093",
+      "size": 1598687
+    },
+    {
+      "name": "rhino-forge-1605.1.5-build.75.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/rhino-forge-1605.1.5-build.75.jar",
+      "sha1": "d7cf08ed860845564a22cd17c1f17f857d4b33dd",
+      "size": 1030440
+    },
+    {
+      "name": "SimpleQuarry-1.10.2_1.0.2.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/SimpleQuarry-1.10.2_1.0.2.jar",
+      "sha1": "66cde08361436832ced67d55bf617801fceba1cf",
+      "size": 114853
+    },
+    {
+      "name": "SolarFluxReborn-1.16.5-16.4.10.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/SolarFluxReborn-1.16.5-16.4.10.jar",
+      "sha1": "40b9d9e90e2bc6d3d5cfe00ddb3eabb5bfb0f2dd",
+      "size": 240183
+    },
+    {
+      "name": "StorageDrawers-1.10.2-3.7.10.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/StorageDrawers-1.10.2-3.7.10.jar",
+      "sha1": "b6db0cfbdb7ad98b09e3c8e21ee39dcb3036aa3d",
+      "size": 571657
+    },
+    {
+      "name": "StorageDrawers-1.16.3-8.5.2.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/StorageDrawers-1.16.3-8.5.2.jar",
+      "sha1": "854514ef529e665b77632882f7274642f11517dd",
+      "size": 575188
+    },
+    {
+      "name": "TConstruct-1.10.2-2.6.5.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/TConstruct-1.10.2-2.6.5.jar",
+      "sha1": "3e2ae98c8824794cc050dd8c3dc26cb103e37865",
+      "size": 3713053
+    },
+    {
+      "name": "TConstruct-1.16.5-3.3.4.335.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/TConstruct-1.16.5-3.3.4.335.jar",
+      "sha1": "bfccf8cb255bc64101c0ae27cac7f3b386b88078",
+      "size": 10927812
+    },
+    {
+      "name": "Thaumcraft-1.10.2-6.0.BETA8.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Thaumcraft-1.10.2-6.0.BETA8.jar",
+      "sha1": "f0bcf902b64c74474b3e89cfc49fbe68bf1f01e5",
+      "size": 11141674
+    },
+    {
+      "name": "ThermalDynamics-1.10.2-2.0.11.19-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ThermalDynamics-1.10.2-2.0.11.19-universal.jar",
+      "sha1": "550159fc6f68ba8c8923422a2ac8cafcf0172504",
+      "size": 710456
+    },
+    {
+      "name": "ThermalExpansion-1.10.2-5.1.10.28-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ThermalExpansion-1.10.2-5.1.10.28-universal.jar",
+      "sha1": "7bb5b025bc20fef6a0000e52eeb757a53a7b8fbe",
+      "size": 1742099
+    },
+    {
+      "name": "ThermalFoundation-1.10.2-2.1.5.12-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/ThermalFoundation-1.10.2-2.1.5.12-universal.jar",
+      "sha1": "51e60b5ae9e4e1c31339e642d0936b26d5246353",
+      "size": 1864236
+    },
+    {
+      "name": "thermal_expansion-1.16.5-1.5.2.16.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/thermal_expansion-1.16.5-1.5.2.16.jar",
+      "sha1": "26e6dcc772b7c64b9cb01813278fde957488e628",
+      "size": 709664
+    },
+    {
+      "name": "thermal_foundation-1.16.5-1.5.2.30.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/thermal_foundation-1.16.5-1.5.2.30.jar",
+      "sha1": "9cfdbd34a21cdd0eae6be454caf622a8e469c21e",
+      "size": 5038968
+    },
+    {
+      "name": "torchmaster-2.3.8.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/torchmaster-2.3.8.jar",
+      "sha1": "f73e1202e7582df14f951945b5a3d63503f93e42",
+      "size": 94627
+    },
+    {
+      "name": "twilightforest-1.16.5-4.0.870-universal.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/twilightforest-1.16.5-4.0.870-universal.jar",
+      "sha1": "25dea11b15da9f1417b9d7a6dde6b46b136a9a41",
+      "size": 31748538
+    },
+    {
+      "name": "valkyrielib-1.10.2-0.10.6.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/valkyrielib-1.10.2-0.10.6.jar",
+      "sha1": "b898816a28986ad14613cb13a183e6ad12cf341c",
+      "size": 221247
+    },
+    {
+      "name": "Waystones_1.16.5-7.6.4.jar",
+      "downloadURL": "https://github.com/clemdefrance/Mods/tree/main/mods/mods/Waystones_1.16.5-7.6.4.jar",
+      "sha1": "986457447ebc040939214d5d59efb5529e3f9648",
+      "size": 375934
+    }
+  ]
+}
